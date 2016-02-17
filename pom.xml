@@ -9,6 +9,7 @@
   	<module>../Selenium</module>
   	<module>../FantaFormazione</module>
   	<module>../Main</module>
+  	<module>../FantaEntity</module>
   	<module>../FantaFormazioneWebMaven</module>
   </modules>
 </project>
