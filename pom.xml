@@ -11,5 +11,7 @@
   	<module>../Main</module>
   	<module>../FantaEntity</module>
   	<module>../FantaFormazioneWebMaven</module>
+  	<module>../FantaWebService</module>
+  	<module>../FantaFormazioneEAR</module>
   </modules>
 </project>
