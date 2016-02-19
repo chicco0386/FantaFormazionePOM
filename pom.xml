@@ -10,6 +10,7 @@
   	<module>../FantaFormazione</module>
   	<module>../Main</module>
   	<module>../FantaEntity</module>
+  	<module>../FantaFormazioneCommon</module>
   	<module>../FantaFormazioneWebMaven</module>
   	<module>../FantaWebService</module>
   	<module>../FantaFormazioneEAR</module>
